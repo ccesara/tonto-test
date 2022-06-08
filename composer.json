@@ -1,0 +1,6 @@
+{
+    "require": {
+        "suin/php-rss-writer": "^1.6",
+        "phpmailer/phpmailer": "^6.6"
+    }
+}
